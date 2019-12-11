@@ -1,15 +1,16 @@
-Visual Studio Code on Windows
-From: https://code.visualstudio.com/docs/setup/windows & https://code.visualstudio.com/docs/python/python-tutorial
+# Visual Studio Code pour Windows note d'installation basé sur: 
++ https://code.visualstudio.com/docs/setup/windows & 
++ https://code.visualstudio.com/docs/python/python-tutorial
 
-# 1.- Téléchargez Visual Studio Code pour windows : 
+### 1.- Téléchargez Visual Studio Code pour windows : 
 [Cliquer ici pour télécharger Visual Studio Code](https://go.microsoft.com/fwlink/?LinkID=534107)
 
-# 2- Installation des Composants couramment utilisés : 
+### 2- Installation des Composants couramment utilisés : 
 + Git: Gestionnaire de code source: https://git-scm.com/download
 + Extension VS Code Python: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 + Interpréteur Python 3: https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
 
-# 3- Vérifiaction de l'installation de l'interpréteur Python
+### 3- Vérifiaction de l'installation de l'interpréteur Python
 + ouvrir une invite de commande: 
 ```console
 cmd.exe
@@ -31,15 +32,16 @@ cd hello
 code .
 ```
 
-# 4- Selectionner l'interpréteur Python dans visual studio code. 
+### 4- Selectionner l'interpréteur Python dans visual studio code. 
 + Palette de commandes: <kbd>Ctrl</kbd>+<kbd>Maj</kbd>+<kbd>P</kbd>
-+ puis taper 
-```console
-"Python: Select Interpreter"
-```
+
+![](https://code.visualstudio.com/assets/docs/python/environments/select-interpreters-command.png)
+
 + Choisir une ligne parmi les choix proposés.
 
-# 5- premier programme Hello.py
+![](https://code.visualstudio.com/assets/docs/python/environments/interpreters-list.png)
+
+### 5- premier programme Hello.py
 + Nouveau fichier dans le répertoire hello: hello.py
 + puis taper dans le fichier hello.py: 
 ```python
