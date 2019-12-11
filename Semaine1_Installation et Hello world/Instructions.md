@@ -48,6 +48,4 @@ code .
 ```
 + Enregistrer le fichier <kbd>CTRL</kbd>+<kbd>S</kbd>
 + Exécuter le fichier Python dans le terminal dans le coin supérieur droit de l'éditeur
-<img src="https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png"
-     alt="launch button icon"
-     style="float: left; margin-right: 10px;" />
+![Launch button image](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png)
