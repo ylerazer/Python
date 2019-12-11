@@ -1,5 +1,5 @@
 # Visual Studio Code pour Windows note d'installation basé sur: 
-+ https://code.visualstudio.com/docs/setup/windows & 
++ https://code.visualstudio.com/docs/setup/windows
 + https://code.visualstudio.com/docs/python/python-tutorial
 
 ### 1.- Téléchargez Visual Studio Code pour windows : 
@@ -10,7 +10,7 @@
 + Extension VS Code Python: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 + Interpréteur Python 3: https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
 
-### 3- Vérifiaction de l'installation de l'interpréteur Python
+### 3- Vérification de l'installation de l'interpréteur Python
 + ouvrir une invite de commande: 
 ```console
 cmd.exe
